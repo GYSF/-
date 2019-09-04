@@ -1,0 +1,8 @@
+创建类  学生
+{  
+  姓名 Sname 
+  学号 Sno
+  方法: getSname,setSname,getSno,setSno
+}
+
+
